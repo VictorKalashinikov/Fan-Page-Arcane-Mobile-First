@@ -1,0 +1,11 @@
+@charset 'UTF-8';
+
+/* Versão Mobile First */
+
+* {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 1.3em;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
