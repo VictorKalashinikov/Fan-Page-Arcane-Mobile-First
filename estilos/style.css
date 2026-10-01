@@ -3,9 +3,16 @@
 /* Versão Mobile First */
 
 * {
-    font-family: 'Courier New', Courier, monospace;
-    font-size: 1.3em;
     margin: 0;
     padding: 0;
-    box-sizing: border-box;
 }
+
+header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #000002;
+    padding: 20PX;
+}
+
+
