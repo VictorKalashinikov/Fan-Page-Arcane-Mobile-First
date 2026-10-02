@@ -27,9 +27,19 @@ Grandes telas: acima de 1200px
 }
 
 @media screen and (min-width: 992px) and (max-width:1200px) {
-
+    main {
+        width: 910px;
+    }
 }
 
 @media screen and (min-width: 1200px) {
+     main {
+        width: 910px;
+    }
 
+    html {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
 }

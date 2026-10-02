@@ -5,6 +5,7 @@
 * {
     margin: 0;
     padding: 0;
+    font-size: 18px;
 }
 
 header {
@@ -13,6 +14,41 @@ header {
     justify-content: center;
     background-color: #000002;
     padding: 20PX;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.264);
 }
 
 
+html {
+    background-color: #E4E4E7;
+
+}
+
+main {
+    text-align: center;
+    margin: auto;
+    margin: 5vw;
+}
+
+p {
+    text-align: justify;
+}
+
+h1 {
+    text-align: center;
+}
+
+p, h1, h2, h3 {
+    padding: 5px;
+}
+
+section img {
+    width: 300px;
+    padding: 3px;
+}
+
+footer {
+background-color: #000002;
+padding: 20px;
+color: white;
+text-align: center;
+}
